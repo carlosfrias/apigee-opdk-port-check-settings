@@ -18,8 +18,8 @@ mp_ports:
 - 8998
 
 ms_ports:
-- 1099
 - 8080
+- 1099
 
 router_ports:
 - 1100
